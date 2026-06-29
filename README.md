@@ -41,4 +41,4 @@ Final adjustments, export, and presentation
 ### 🎬 فيديو المشروع (Project Video)
 
 يمكنك مشاهدة أو تحميل فيديو المشروع بجودة عالية عبر جوجل درايف من هنا:
-[اضغط هنا لمشاهدة الفيديو]( https://drive.google.com/file/d/1RcrTahDTHscsGC8xXX_u50jjFRJWULDT/view?usp=sharing)
+[اضغط هنا لمشاهدة الفيديو]([رابط_جوجل_درايف_الخاص_بكِ_هنا](https://drive.google.com/file/d/1s86YqxvSJ3PHChnGDGj0Uu-BgXLNRjKs/view?usp=drive_link))
